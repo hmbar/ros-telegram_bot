@@ -33,7 +33,7 @@ add name=bot owner=admin policy=read,write,test source="##\r\
     \n#         ** DO NOT USE THE INTERNAL FLASH MEMORY **\r\
     \n# USE AN EXTERNAL USB DEVICE. \r\
     \n# USE PREFERABLY A NON-FLASH BASED STORAGE, OTHERWISE REPLACE IT REGULAR\
-    Y\r\
+    LY\r\
     \n# \r\
     \n##\r\
     \n#\r\
